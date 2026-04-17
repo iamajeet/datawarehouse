@@ -3,10 +3,16 @@ File based approach
 
 STEP 1 - create database.
 STEP 2 - create schema (bronze,silver,gold).
+STEP 3 - create data lineage digram.
 
 bronze
-STEP 3 - create tables according to source system (DDL) in bronze schema.
-STEP 4 - write a bulk insert procedure to load data from source files to bronze schema tables.
+STEP 4 - create tables according to source system (DDL) in bronze schema.
+STEP 5 - write a bulk insert procedure to load data from source files to bronze schema tables.
+STEP 6 - explore the data.
+STEP 7 - data cleansing (check data quality, write transformation).
+STEP 8 - data validation.
+STEP 9 - loop STEP 7, 8 (if required).
+STEP 10 - insert data to silver schema tables.
 
 
 
