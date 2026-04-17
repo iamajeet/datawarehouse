@@ -8,7 +8,8 @@ STEP 3 - create data lineage digram.
 bronze
 STEP 4 - create tables according to source system (DDL) in bronze schema.
 STEP 5 - write a bulk insert procedure to load data from source files to bronze schema tables.
-STEP 6 - explore the data.
+
+STEP 6 - explore the data (document the understanding of data by creating the integration model and visualise the data)
 STEP 7 - data cleansing (check data quality, write transformation,insert data to silver schema tables).
 STEP 8 - data validation.
 STEP 9 - loop STEP 7, 8 (if required).
