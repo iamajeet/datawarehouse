@@ -1,1 +1,12 @@
-empty file
+File based approach
+
+
+STEP 1 - create database.
+STEP 2 - create schema (bronze,silver,gold).
+
+bronze
+STEP 3 - create tables according to source system (DDL) in bronze schema.
+STEP 4 - write a bulk insert procedure to load data from source files to bronze schema tables.
+
+
+
