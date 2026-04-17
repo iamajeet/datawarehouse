@@ -8,7 +8,18 @@ File based approach
   STEP 3 - create data lineage digram.
   
   STEP 6 - explore the data (document the understanding of data by creating the integration model and visualise the data)
-  STEP 7 - crete tables in the silver schema.
+  STEP 7 - create tables (DDL) in the silver schema. Same as bronze (but you can add metadata column like created date, updated date, source, file location etc)
+  STEP 8 - now find the data quality issue in bronze.
+    quality check :
+      check null and duplicate in primary key. primary key should be unique and not null.
+      check for unwanted spaces in string. 
+      check the consistency of values in low cardinality coloumns.
+      check the date column if it contain  valid date  not number or varchar
+  STEP 9 - if all issue resolved the insert transform data in to silver.<table>
+  STEP 10 - run all the quality checks on silver.<table>
+      
+      
+    
 
   STEP 7 - data cleansing (check data quality, write transformation,insert data to silver schema tables).
     data cleansing involves :
