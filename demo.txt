@@ -2,7 +2,7 @@ File based approach
   STEP 1 - create database.
   STEP 2 - create schema (bronze,silver,gold).
   
-  bronze
+  Bronze
   STEP 4 - create tables according to source system (DDL) in bronze schema.
   STEP 5 - write a bulk insert procedure to load data from source files to bronze schema tables.
   STEP 3 - create data lineage digram.
@@ -17,6 +17,16 @@ File based approach
       check the date column if it contain  valid date  not number or varchar
   STEP 9 - if all issue resolved the insert transform data in to silver.<table>
   STEP 10 - run all the quality checks on silver.<table>
+  STEP 11 - update the lineage diagram for silver layer.
+
+  Gold
+  STEP 12 - Explore and understand the business objects
+  STEP 13 - drawing conceptual data model , logical data model , physical data model if required for gold layer.
+  STEP 14 - for datawarehouse and business inteligence we have two approches for data modeling
+    star schema (dimensions* and facts**)
+    snoflake schema (dimensions subdimensions and facts)
+  *dimensions : descriptive information that give context to data(usually with lots of text data in tables). gives answer to who what where.
+  **facts : quantative information  represent an event(usually tables with multiple ids, dates, many numbers). gives answer to How much how many.
       
       
     
