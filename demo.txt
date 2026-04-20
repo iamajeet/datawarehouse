@@ -35,7 +35,8 @@ File based approach
   STEP 20 - same data coloumn integration. 
   STEP 21 - give friendly names to columns.
   STEP 22 - position the coloumn logically.
-  STEP 23 - identify the business object as dimension or fact if it is dimension give the table a primary key(surrogate keys) apart coming from source system (it is good practice) surrogate keys should be end with *_key as  per naming convension
+  STEP 23 - identify the business object as dimension or fact if it is dimension give the table a primary key(surrogate keys) apart coming from source system (it is good practice) surrogate keys should be end with *_key as  per naming convension.
+  STEP 24 - finally create the view in gold layer
     
       
     
