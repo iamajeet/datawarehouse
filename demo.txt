@@ -27,7 +27,11 @@ File based approach
     snoflake schema (dimensions subdimensions and facts)
   *dimensions : descriptive information that give context to data(usually with lots of text data in tables). gives answer to who what where.
   **facts : quantative information  represent an event(usually tables with multiple ids, dates, many numbers). gives answer to How much how many.
-      
+  STEP 15 - aim is to build new data model with new business objects
+  STEP 16 - analyse the original data model that give us understanding (use the integration model diagram made earlier)
+  STEP 17 - analyse the tables and try to give give lebels that belongs to same object like product_info and product_category should be lebeled as product(business object).
+  STEP 18 - Once business object discovered then start doing data integration according for each business object one by one.
+    
       
     
 
