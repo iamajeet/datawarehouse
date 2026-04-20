@@ -38,13 +38,13 @@
           <mxGeometry height="363" width="161" x="-556" y="27" as="geometry" />
         </mxCell>
         <mxCell id="s4qxj8d-oRhIKjEqoyFD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="bronze" vertex="1">
-          <mxGeometry height="33" width="82" x="-757" y="10" as="geometry" />
+          <mxGeometry height="33" width="82" x="-749.5" y="9" as="geometry" />
         </mxCell>
         <mxCell id="s4qxj8d-oRhIKjEqoyFD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="silver" vertex="1">
-          <mxGeometry height="33" width="82" x="-526" y="10" as="geometry" />
+          <mxGeometry height="33" width="82" x="-516.5" y="9" as="geometry" />
         </mxCell>
         <mxCell id="s4qxj8d-oRhIKjEqoyFD-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="gold" vertex="1">
-          <mxGeometry height="33" width="82" x="-307" y="4" as="geometry" />
+          <mxGeometry height="33" width="82" x="-290" y="9" as="geometry" />
         </mxCell>
         <mxCell id="s4qxj8d-oRhIKjEqoyFD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre style=&quot;font-family: &amp;quot;Cascadia Mono&amp;quot;; font-size: 9pt;&quot;&gt;crm_cust_info&lt;/pre&gt;" vertex="1">
           <mxGeometry height="27.5" width="130" x="-774" y="63.5" as="geometry" />
