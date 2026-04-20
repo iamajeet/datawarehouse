@@ -471,6 +471,9 @@
         <mxCell id="QvTGOPmKC6GeYuNLTk4Z-179" parent="QvTGOPmKC6GeYuNLTk4Z-176" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="QvTGOPmKC6GeYuNLTk4Z-180" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="&lt;b&gt;CUSTOMER&lt;/b&gt;" vertex="1">
+          <mxGeometry height="31" width="201" x="-415" y="1789" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
