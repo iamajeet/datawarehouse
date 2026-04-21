@@ -870,6 +870,15 @@
             <mxPoint x="-330" y="2439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wquJum7x-o083Wg5oeXH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dim_customers" vertex="1">
+          <mxGeometry height="33" width="141" x="-321" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="wquJum7x-o083Wg5oeXH-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="dim_products" vertex="1">
+          <mxGeometry height="36" width="138" x="-321" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wquJum7x-o083Wg5oeXH-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fact_sales" vertex="1">
+          <mxGeometry height="31" width="137" x="-321" y="304" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
