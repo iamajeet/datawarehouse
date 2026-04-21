@@ -53,6 +53,8 @@ Aim of an EDA project to get the understanding about the data. exploring the dat
   STEP 2 - Dimension exploration, like identifying unique values for each dimension help us to grouping or segmenting the data. [DISTINCT]
   STEP 3 - Date exploration like to find date boundries in our data and scope of data and timespan. [MIN/MAX, DATEDIFFF]
   STEP 4 - Measure exploration like finding big numbers for measures. use of aggregation functions. [SUM, AVG, COUNT]
+  STEP 5 - Magnitude analysis like compare the measure values by categories or dimensions help us to understand the importance of different categories [AGG measure BY dimensions] it is like break up of big numbers we get by Measure exploration avove step.
+  STEP 6 - Ranking analysis like TOP N , BOTTOM N things it is order the dimension by measure. [RANK dimension BY AGG measure]
 
 
 
