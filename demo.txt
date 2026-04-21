@@ -45,6 +45,7 @@ File based approach
   STEP 28 - last step after making all the dimesions conncted to fact do the final check on forign keys's integrity
   STEP 29 - create/draw a new data model with new dimension and fact (refer image (Data Mart))
   STEP 30 - prepare the data catloge
+  STEP 31 - update the data linege document.
 
 
 
