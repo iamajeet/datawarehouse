@@ -47,5 +47,13 @@ File based approach
   STEP 30 - prepare the data catloge
   STEP 31 - update the data linege document.
 
+EDA project
+Aim of an EDA project to get the understanding about the data. exploring the data like how many rows, how big is data etc no serious business question answered here but it might prepare you for that.
+  STEP 1 - Database exploration explore all object in database explore all column in database. [INFORMATION_SCHEMA]
+  STEP 2 - Dimension exploration, like identifying unique values for each dimension help us to grouping or segmenting the data. [DISTINCT]
+  STEP 3 - Date exploration like to find date boundries in our data and scope of data and timespan. [MIN/MAX, DATEDIFFF]
+  STEP 4 - Measure exploration like finding big numbers for measures. use of aggregation functions. [SUM, AVG, COUNT]
+
+
 
 
