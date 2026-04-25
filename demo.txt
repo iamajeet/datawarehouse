@@ -61,7 +61,9 @@ Advance Data Analytics Project
   STEP 2 - Cummulative Analysis , i.e. aggregative data prograssivly over the time it help us to understand how our business progressing (growing/ decliining) over the time
 [AGG of Cummulative measure BY date dimension] e.g. Running total of sales by month/year or Moving avg of sales by month/year.
   STEP 3 - Performance Analysis, i.e comparing the current value with target value. it help us to mesure success and compare performance [Current(measure) - Target (measure)]
-
+e.g. current sale - avg sale, current year sale - prev year sale etc.
+  STEP 4 - Part to Whole Analysis. how individual part is performing against the whole allow us which individual part having more impact on business. [(measure * (total measure )) * 100 BY diemnsion ]
+  STEP 5 - Data Segmentation i.e group the data based on specific range, it help us to understand the co-relation between two measure. [measure BY measure] e.g. total product by sales range , total customer by age.
 
 
 
