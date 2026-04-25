@@ -56,6 +56,25 @@ Aim of an EDA project to get the understanding about the data. exploring the dat
   STEP 5 - Magnitude analysis like compare the measure values by categories or dimensions help us to understand the importance of different categories [AGG measure BY dimensions] it is like break up of big numbers we get by Measure exploration avove step.
   STEP 6 - Ranking analysis like TOP N , BOTTOM N things it is order the dimension by measure. [RANK dimension BY AGG measure]
 
+Advance Data Analytics Project
+  STEP 1 - Change over time, How a measure evolve over a time. help to track trend or find seasonality in data [AGG measure BY date dimension] eg. Total sales by year, avg sales by month etc. Usuallly we target fact table.
+  STEP 2 - Cummulative Analysis , i.e. aggregative data prograssivly over the time it help us to understand how our business progressing (growing/ decliining) over the time
+[AGG of Cummulative measure BY date dimension] e.g. Running total of sales by month/year or Moving avg of sales by month/year.
+  STEP 3 - Performance Analysis, i.e comparing the current value with target value. it help us to mesure success and compare performance [Current(measure) - Target (measure)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
